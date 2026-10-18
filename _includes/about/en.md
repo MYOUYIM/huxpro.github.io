@@ -1,3 +1,11 @@
+Hey, I am Youyi (悠逸). I am a passionate independent developer and a lifelong learner. Unlike traditional career paths, my focus and uniqueness lie entirely in the development and continuous maintenance of my personal static blog.
+
+To this day, I am still actively pushing forward my programming journey. I have a strong preference for learning by diving into open-source projects created by others. When I can't immediately grasp the core logic of a project, my approach is to fork a copy to my personal account, deploy it directly for use, and then meticulously try to understand every "recursion tree" within the code.
+
+My personal static blog is not just a showcase, but my playground and laboratory. I believe that the best way to learn is to take things apart, use them, and understand the underlying mechanisms step by step.
+
+
+
 ##### Appearence
 
 - [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
